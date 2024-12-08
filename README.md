@@ -4,7 +4,7 @@
 
 A responsive and visually appealing **Razorpay Clone** built using **HTML**, **CSS**, and **Tailwind CSS**. This project replicates the user interface of the Razorpay payment gateway, offering a realistic design experience.  
 
-🌍 **[Live Demo](#)** | 📂 **[Repository](https://github.com/Saurabh2244/Razorpay-Clone)**  
+🌍 **[Live Demo](https://razorui-clone-tailwind.netlify.app/)** | 📂 **[Repository](https://github.com/Saurabh2244/Razorpay-Clone)**  
 
 ---
 
